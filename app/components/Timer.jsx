@@ -6,6 +6,7 @@ var Timer = React.createClass({
     return (
       <div>
         <h3>This is the timer</h3>
+        
       </div>
     )
   }
